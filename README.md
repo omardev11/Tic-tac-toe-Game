@@ -1,4 +1,4 @@
-# Tic Tac Toe Game Repository
+# Tic Tac Toe Game 
 
 Welcome to the Tic Tac Toe game project! This Windows Forms application allows users to play the classic Tic Tac Toe game against another player in a user-friendly interface.
 
@@ -22,7 +22,7 @@ The Tic Tac Toe game is a fun and engaging two-player game where players take tu
 
 ### For the Windows Forms Application (C#):
 1. Ensure you have Visual Studio installed.
-2. Clone or download the repository from this link: https://github.com/omardev11/Tic-Tac-Toe.git
+2. Clone or download the repository from this link: https://github.com/omardev11/Tic-tac-toe-Game.git
 3. Open the solution file in Visual Studio.
 4. Build the project and run the application to start playing Tic Tac Toe!
 
