@@ -1,0 +1,20 @@
+E:\apps\c++\programing advice course\C# level 1\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.exe.config
+E:\apps\c++\programing advice course\C# level 1\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.exe
+E:\apps\c++\programing advice course\C# level 1\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.pdb
+E:\apps\c++\programing advice course\C# level 1\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.AssemblyReference.cache
+E:\apps\c++\programing advice course\C# level 1\Tic Tac Toe Game\obj\Debug\Tic_Tac_Toe_Game.Form1.resources
+E:\apps\c++\programing advice course\C# level 1\Tic Tac Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+E:\apps\c++\programing advice course\C# level 1\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.GenerateResource.cache
+E:\apps\c++\programing advice course\C# level 1\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.CoreCompileInputs.cache
+E:\apps\c++\programing advice course\C# level 1\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.exe
+E:\apps\c++\programing advice course\C# level 1\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.pdb
+E:\apps\c++\My Projects\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.exe.config
+E:\apps\c++\My Projects\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.exe
+E:\apps\c++\My Projects\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.pdb
+E:\apps\c++\My Projects\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.AssemblyReference.cache
+E:\apps\c++\My Projects\Tic Tac Toe Game\obj\Debug\Tic_Tac_Toe_Game.Form1.resources
+E:\apps\c++\My Projects\Tic Tac Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+E:\apps\c++\My Projects\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.GenerateResource.cache
+E:\apps\c++\My Projects\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.CoreCompileInputs.cache
+E:\apps\c++\My Projects\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.exe
+E:\apps\c++\My Projects\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.pdb
